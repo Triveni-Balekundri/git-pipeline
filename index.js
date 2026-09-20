@@ -1,0 +1,2 @@
+console.log("Hello this is a test for git pipeline that has been created to test the git pipeline functionality and ensure that everything is working as expected. This message serves as a confirmation that the pipeline is set up correctly and is able to execute code without any issues.");
+console.log("This is CI/CD pipeline using github actions and it is designed to automate the process of building, testing, and deploying code changes. The pipeline will run automatically whenever changes are pushed to the repository, ensuring that the code is always in a deployable state.");
